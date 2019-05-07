@@ -4,7 +4,7 @@ Awesome list for all things AI, ML and deep learning
 
 ![](images/AI-vs-ML-vs-Deep-Learning.png)
 
-
+## Concepts
 
 ### Neural Machine Translation - attention mechanisms
 
@@ -24,7 +24,34 @@ The Universal Transformer is an extension to the Transformer models which combin
 
 http://mostafadehghani.com/2019/05/05/universal-transformers/
 
+## Tutorials
 
+- [fastai: practical deep learning for coders](https://course.fast.ai/)
+- [practicalAI](https://github.com/GokuMohandas/practicalAI)
+- [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 
+## Awesome lists
 
+### General
 
+- [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+- [awesome-deep-learning-resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)
+
+### Frameworks / ecosystems
+
+- [awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)
+- [awesome-ternsorflow](https://github.com/jtoy/awesome-tensorflow)
+- [keras-resources](https://github.com/fchollet/keras-resources)
+- [DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython)
+- [DataScienceR](https://github.com/ujjwalkarn/DataScienceR)
+
+### Awesome papers
+
+- [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
+
+### NLP
+
+- [awesome-nlp](https://github.com/keon/awesome-nlp)
+- [awesome-bert](https://github.com/Jiakui/awesome-bert)
+- [awesome-word2vec](https://github.com/MaxwellRebo/awesome-2vec)
+- [awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models)
