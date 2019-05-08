@@ -24,6 +24,12 @@ The Universal Transformer is an extension to the Transformer models which combin
 
 http://mostafadehghani.com/2019/05/05/universal-transformers/
 
+## node2vec
+
+An algorithmic framework for learning useful representation from highly structured objects such as graphs.
+
+http://sujitpal.blogspot.com/2019/05/node2vec-graph-embeddings-for-neurips.html?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+SalmonRun+%28Salmon+Run%29
+
 ## Tutorials
 
 - [fastai: practical deep learning for coders](https://course.fast.ai/)
