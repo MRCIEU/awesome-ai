@@ -30,6 +30,10 @@ An algorithmic framework for learning useful representation from highly structur
 
 http://sujitpal.blogspot.com/2019/05/node2vec-graph-embeddings-for-neurips.html?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+SalmonRun+%28Salmon+Run%29
 
+## Topic: graph analytics
+
+- [Benchmark of popular graph/network packages in python/r](https://www.timlrx.com/2019/05/05/benchmark-of-popular-graph-network-packages/)
+
 ## Tutorials
 
 - [fastai: practical deep learning for coders](https://course.fast.ai/)
