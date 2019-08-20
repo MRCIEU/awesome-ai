@@ -66,3 +66,8 @@ http://sujitpal.blogspot.com/2019/05/node2vec-graph-embeddings-for-neurips.html?
 - [awesome-word2vec](https://github.com/MaxwellRebo/awesome-2vec)
 - [awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models)
 - [NCBI BioNLP Research Group (PI: Zhiyong Lu)](https://github.com/ncbi-nlp)
+
+### Graph theory
+
+- [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection)
+- [awesome-network-analysis](https://github.com/briatte/awesome-network-analysis)
