@@ -71,5 +71,6 @@ http://sujitpal.blogspot.com/2019/05/node2vec-graph-embeddings-for-neurips.html?
 ### Graph theory
 
 - [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection)
+- [awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
 - [awesome-network-analysis](https://github.com/briatte/awesome-network-analysis)
 - [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding)
