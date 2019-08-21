@@ -4,6 +4,21 @@ Awesome list for all things AI, ML and deep learning
 
 ![](images/AI-vs-ML-vs-Deep-Learning.png)
 
+- [awesome-ai](#awesome-ai)
+    - [Concepts](#concepts)
+        - [Neural Machine Translation - attention mechanisms](#neural-machine-translation---attention-mechanisms)
+        - [Transformer](#transformer)
+        - [Universal Transformers](#universal-transformers)
+    - [node2vec](#node2vec)
+    - [Topic: graph analytics](#topic-graph-analytics)
+    - [Tutorials](#tutorials)
+    - [Awesome lists](#awesome-lists)
+        - [General](#general)
+        - [Frameworks / ecosystems](#frameworks--ecosystems)
+        - [Awesome papers](#awesome-papers)
+        - [NLP](#nlp)
+        - [Graph theory](#graph-theory)
+
 ## Concepts
 
 ### Neural Machine Translation - attention mechanisms
@@ -59,6 +74,8 @@ http://sujitpal.blogspot.com/2019/05/node2vec-graph-embeddings-for-neurips.html?
 ### Awesome papers
 
 - [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
+- [awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
+- [awesome-gradient-boosting-papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
 
 ### NLP
 
@@ -71,5 +88,7 @@ http://sujitpal.blogspot.com/2019/05/node2vec-graph-embeddings-for-neurips.html?
 ### Graph theory
 
 - [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection)
+- [awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
 - [awesome-network-analysis](https://github.com/briatte/awesome-network-analysis)
 - [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding)
+- [graph-based-deep-learning-literature](https://github.com/naganandy/graph-based-deep-learning-literature)
