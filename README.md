@@ -50,6 +50,7 @@ http://sujitpal.blogspot.com/2019/05/node2vec-graph-embeddings-for-neurips.html?
 ### Frameworks / ecosystems
 
 - [awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)
+- [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch)
 - [awesome-ternsorflow](https://github.com/jtoy/awesome-tensorflow)
 - [keras-resources](https://github.com/fchollet/keras-resources)
 - [DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython)
@@ -71,3 +72,4 @@ http://sujitpal.blogspot.com/2019/05/node2vec-graph-embeddings-for-neurips.html?
 
 - [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection)
 - [awesome-network-analysis](https://github.com/briatte/awesome-network-analysis)
+- [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding)
