@@ -4,6 +4,21 @@ Awesome list for all things AI, ML and deep learning
 
 ![](images/AI-vs-ML-vs-Deep-Learning.png)
 
+- [awesome-ai](#awesome-ai)
+    - [Concepts](#concepts)
+        - [Neural Machine Translation - attention mechanisms](#neural-machine-translation---attention-mechanisms)
+        - [Transformer](#transformer)
+        - [Universal Transformers](#universal-transformers)
+    - [node2vec](#node2vec)
+    - [Topic: graph analytics](#topic-graph-analytics)
+    - [Tutorials](#tutorials)
+    - [Awesome lists](#awesome-lists)
+        - [General](#general)
+        - [Frameworks / ecosystems](#frameworks--ecosystems)
+        - [Awesome papers](#awesome-papers)
+        - [NLP](#nlp)
+        - [Graph theory](#graph-theory)
+
 ## Concepts
 
 ### Neural Machine Translation - attention mechanisms
