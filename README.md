@@ -1,5 +1,9 @@
 # awesome-ai
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+![Maintenance](https://img.shields.io/maintenance/yes/2019)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 Awesome list for all things AI, ML and deep learning
 
 ![](images/AI-vs-ML-vs-Deep-Learning.png)
