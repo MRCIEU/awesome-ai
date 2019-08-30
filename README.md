@@ -59,6 +59,14 @@ http://sujitpal.blogspot.com/2019/05/node2vec-graph-embeddings-for-neurips.html?
 - [practicalAI](https://github.com/GokuMohandas/practicalAI)
 - [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 
+## Research papers
+
+### NLP
+
+- [Parikh, A.P., Täckström, O., Das, D. and Uszkoreit, J., 2016. A decomposable attention model for natural language inference. arXiv preprint arXiv:1606.01933.](https://arxiv.org/abs/1606.01933)
+- [Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A.N., Kaiser, Ł. and Polosukhin, I., 2017. Attention is all you need. In Advances in neural information processing systems (pp. 5998-6008).](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
+- [Devlin, J., Chang, M.W., Lee, K. and Toutanova, K., 2018. Bert: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805.](https://arxiv.org/pdf/1810.04805.pdf%E3%80%91)
+
 ## Awesome lists
 
 ### General
