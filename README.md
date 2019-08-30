@@ -67,6 +67,7 @@ http://sujitpal.blogspot.com/2019/05/node2vec-graph-embeddings-for-neurips.html?
 - [Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A.N., Kaiser, Ł. and Polosukhin, I., 2017. Attention is all you need. In Advances in neural information processing systems (pp. 5998-6008).](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
 - [Devlin, J., Chang, M.W., Lee, K. and Toutanova, K., 2018. Bert: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805.](https://arxiv.org/pdf/1810.04805.pdf)
 - [The illustrated GPT-2 (Visulaizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
+- [Transformers from scratch](http://www.peterbloem.nl/blog/transformers)
 
 ## Awesome lists
 
