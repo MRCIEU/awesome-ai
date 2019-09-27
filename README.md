@@ -91,6 +91,7 @@ http://sujitpal.blogspot.com/2019/05/node2vec-graph-embeddings-for-neurips.html?
 - [awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
 - [awesome-gradient-boosting-papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
 - [must read papers on graph neural network](https://github.com/thunlp/GNNPapers)
+- [deep learning biology](https://github.com/hussius/deeplearning-biology)
 
 ### NLP
 
