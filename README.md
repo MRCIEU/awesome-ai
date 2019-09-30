@@ -68,6 +68,7 @@ http://sujitpal.blogspot.com/2019/05/node2vec-graph-embeddings-for-neurips.html?
 - [Devlin, J., Chang, M.W., Lee, K. and Toutanova, K., 2018. Bert: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805.](https://arxiv.org/pdf/1810.04805.pdf)
 - [The illustrated GPT-2 (Visulaizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
 - [Transformers from scratch](http://www.peterbloem.nl/blog/transformers)
+- [Searching for Answer Candidate Passages with Solr and Anserini](http://sujitpal.blogspot.com/2019/09/searching-for-answer-candidate-passages.html)
 
 ## Awesome lists
 
