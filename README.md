@@ -69,6 +69,7 @@ http://sujitpal.blogspot.com/2019/05/node2vec-graph-embeddings-for-neurips.html?
 - [The illustrated GPT-2 (Visulaizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
 - [Transformers from scratch](http://www.peterbloem.nl/blog/transformers)
 - [Searching for Answer Candidate Passages with Solr and Anserini](http://sujitpal.blogspot.com/2019/09/searching-for-answer-candidate-passages.html)
+- [Subramanian et al., 2019. On extractive and abstractive neural document summarization with transformer language models](https://arxiv.org/abs/1909.03186)
 
 ## Awesome lists
 
