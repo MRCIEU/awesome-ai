@@ -61,7 +61,7 @@ http://sujitpal.blogspot.com/2019/05/node2vec-graph-embeddings-for-neurips.html?
 
 ## Research papers / blog articles
 
-### NLP
+### NLP: methods
 
 - [Parikh, A.P., Täckström, O., Das, D. and Uszkoreit, J., 2016. A decomposable attention model for natural language inference. arXiv preprint arXiv:1606.01933.](https://arxiv.org/abs/1606.01933)
 - [Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A.N., Kaiser, Ł. and Polosukhin, I., 2017. Attention is all you need. In Advances in neural information processing systems (pp. 5998-6008).](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
@@ -70,6 +70,11 @@ http://sujitpal.blogspot.com/2019/05/node2vec-graph-embeddings-for-neurips.html?
 - [Transformers from scratch](http://www.peterbloem.nl/blog/transformers)
 - [Searching for Answer Candidate Passages with Solr and Anserini](http://sujitpal.blogspot.com/2019/09/searching-for-answer-candidate-passages.html)
 - [Subramanian et al., 2019. On extractive and abstractive neural document summarization with transformer language models](https://arxiv.org/abs/1909.03186)
+
+### NLP: applications
+
+- [Wang et al., 2018. Ontology Alignment in the Biomedical Domain Using Entity Definitions and Context](https://arxiv.org/pdf/1806.07976.pdf)
+- [Wang et al., 2019., Extracting evidence of supplement-drug interactions from literature](https://arxiv.org/pdf/1909.08135.pdf)
 
 ## Awesome lists
 
