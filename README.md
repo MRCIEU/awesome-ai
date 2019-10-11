@@ -103,6 +103,7 @@ http://sujitpal.blogspot.com/2019/05/node2vec-graph-embeddings-for-neurips.html?
 
 ### NLP
 
+- [nlp-roadmap](https://github.com/graykode/nlp-roadmap)
 - [awesome-nlp](https://github.com/keon/awesome-nlp)
 - [awesome-bert](https://github.com/Jiakui/awesome-bert)
 - [awesome-word2vec](https://github.com/MaxwellRebo/awesome-2vec)
