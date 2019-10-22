@@ -118,6 +118,7 @@ http://sujitpal.blogspot.com/2019/05/node2vec-graph-embeddings-for-neurips.html?
 - [awesome-network-analysis](https://github.com/briatte/awesome-network-analysis)
 - [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding)
 - [graph-based-deep-learning-literature](https://github.com/naganandy/graph-based-deep-learning-literature)
+- [LiteratureDL4Graph](https://github.com/DeepGraphLearning/LiteratureDL4Graph)
 
 ### Notebooks
 
