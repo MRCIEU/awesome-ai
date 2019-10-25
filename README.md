@@ -53,6 +53,18 @@ http://sujitpal.blogspot.com/2019/05/node2vec-graph-embeddings-for-neurips.html?
 
 - [Benchmark of popular graph/network packages in python/r](https://www.timlrx.com/2019/05/05/benchmark-of-popular-graph-network-packages/)
 
+## Tooling
+
+### general purpose
+
+### probalistic inference
+
+### graph
+
+- [dgl: Python package built to ease deep learning on graph, on top of existing DL frameworks.](https://github.com/dmlc/dgl)
+- [cdlib: Community Discovery Library - (for networkx and igraph)](https://github.com/GiulioRossetti/cdlib)
+- [Embedding-Vis](https://github.com/meltzerpete/Embedding-Vis)
+
 ## Tutorials
 
 - [fastai: practical deep learning for coders](https://course.fast.ai/)
