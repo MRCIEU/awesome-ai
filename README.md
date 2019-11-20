@@ -138,6 +138,7 @@ http://sujitpal.blogspot.com/2019/05/node2vec-graph-embeddings-for-neurips.html?
 - [shaoxiongji/awesome-knowledge-graph](https://github.com/shaoxiongji/awesome-knowledge-graph)
 - [totogo/awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph)
 - [BrambleXu/knowledge-graph-learning](https://github.com/BrambleXu/knowledge-graph-learning)
+- [husthuke/awesome-knowledge-graph (in Chinese)](https://github.com/husthuke/awesome-knowledge-graph)
 
 ### Notebooks
 
