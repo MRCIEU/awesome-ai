@@ -133,6 +133,12 @@ http://sujitpal.blogspot.com/2019/05/node2vec-graph-embeddings-for-neurips.html?
 - [graph-based-deep-learning-literature](https://github.com/naganandy/graph-based-deep-learning-literature)
 - [LiteratureDL4Graph](https://github.com/DeepGraphLearning/LiteratureDL4Graph)
 
+### Knowledge graph
+
+- [shaoxiongji/awesome-knowledge-graph](https://github.com/shaoxiongji/awesome-knowledge-graph)
+- [totogo/awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph)
+- [BrambleXu/knowledge-graph-learning](https://github.com/BrambleXu/knowledge-graph-learning)
+
 ### Notebooks
 
 - [NLP graphs](https://github.com/sujitpal/nlp-graph-examples)
