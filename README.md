@@ -89,6 +89,10 @@ http://sujitpal.blogspot.com/2019/05/node2vec-graph-embeddings-for-neurips.html?
 - [Wang et al., 2018. Ontology Alignment in the Biomedical Domain Using Entity Definitions and Context](https://arxiv.org/pdf/1806.07976.pdf)
 - [Wang et al., 2019., Extracting evidence of supplement-drug interactions from literature](https://arxiv.org/pdf/1909.08135.pdf)
 
+### Transformer applications
+
+- [Bert2Tag: BERT key phrase tagging](https://github.com/thunlp/Bert2Tag)
+
 ## Awesome lists
 
 ### General
