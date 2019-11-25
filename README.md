@@ -123,6 +123,12 @@ http://sujitpal.blogspot.com/2019/05/node2vec-graph-embeddings-for-neurips.html?
 - [awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models)
 - [NCBI BioNLP Research Group (PI: Zhiyong Lu)](https://github.com/ncbi-nlp)
 - [awesome-bert](https://github.com/Jiakui/awesome-bert)
+- [thunlp](https://github.com/thunlp) awesome paper repos
+  - [neural relation extraction (NRE)](https://github.com/thunlp/NREPapers)
+  - [machine reading comprehension](https://github.com/thunlp/RCPapers)
+  - [network representation learning (NRL) / network embedding (NE)](https://github.com/thunlp/NRLPapers)
+  - [graph neural networks (GNN)](https://github.com/thunlp/GNNPapers)
+  - [knowledge representation learning (KRL) / knowledge embedding (KE)](https://github.com/thunlp/KRLPapers)
 
 ### Graph theory
 
