@@ -78,6 +78,10 @@ http://sujitpal.blogspot.com/2019/05/node2vec-graph-embeddings-for-neurips.html?
 - [Embedding-Vis](https://github.com/meltzerpete/Embedding-Vis)
 - [OpenNE](https://github.com/thunlp/OpenNE)
 
+### web resources
+
+- [clocate.com; search conferences](https://www.clocate.com/)
+
 ## Tutorials
 
 - [fastai: practical deep learning for coders](https://course.fast.ai/)
