@@ -149,6 +149,7 @@ http://sujitpal.blogspot.com/2019/05/node2vec-graph-embeddings-for-neurips.html?
   - [network representation learning (NRL) / network embedding (NE)](https://github.com/thunlp/NRLPapers)
   - [graph neural networks (GNN)](https://github.com/thunlp/GNNPapers)
   - [knowledge representation learning (KRL) / knowledge embedding (KE)](https://github.com/thunlp/KRLPapers)
+- [the super duper NLP repo](https://notebooks.quantumstat.com/)
 
 ### Graph theory
 
